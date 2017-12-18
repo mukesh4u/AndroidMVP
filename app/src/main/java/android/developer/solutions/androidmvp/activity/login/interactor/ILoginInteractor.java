@@ -4,8 +4,7 @@ import android.developer.solutions.androidmvp.activity.login.presenter.ILoginPre
 
 /**
  * Created by Mukesh on 12/16/2017.
- * Affle Appstudio S/W Pvt. Ltd.
- * mukesh.yadav@affle.com
+ * androiddevelopersolutions.com
  */
 public interface ILoginInteractor {
     void login(String username, String password, ILoginPresenter listener);
